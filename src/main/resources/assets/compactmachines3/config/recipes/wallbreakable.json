@@ -1,10 +1,13 @@
 {
   "name": "compactmachines3:wallbreakable",
   "target-block": "compactmachines3:wallbreakable",
-  "target-count": 16,
+  "target-count": 4,
 
   "input-types": {
-    "i": { "id": "minecraft:iron_block" },
+    "i": {
+      "id": "gregtech:meta_block_compressed_125",
+      "Damage": 11
+    },
     "r": { "id": "minecraft:redstone_wire" }
   },
 
