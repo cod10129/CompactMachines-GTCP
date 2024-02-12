@@ -19,8 +19,7 @@
       "item": "minecraft:book"
     },
     "i": {
-      "item": "gregtech:meta_ingot",
-      "meta": 2
+      "item": "minecraft:iron_ingot"
     }
   }
 }
