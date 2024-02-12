@@ -21,3 +21,6 @@ build
 eclipse
 run
 rawAssets
+
+# JDK 1.8
+openlogic-openjdk-8u392-b08-windows-64

@@ -6,7 +6,7 @@
   "input-types": {
     "i": {
       "id": "gregtech:meta_block_compressed_125",
-      "Damage": 11
+      "meta": 11
     },
     "r": { "id": "minecraft:redstone_wire" }
   },
