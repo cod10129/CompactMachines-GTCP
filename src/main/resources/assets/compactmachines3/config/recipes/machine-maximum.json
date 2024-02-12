@@ -6,7 +6,8 @@
 
   "duration": 600,
 
-  "catalyst": "minecraft:ender_pearl",
+  "catalyst": "gregtech:meta_item_1",
+  "catalyst-meta": 206,
 
   "input-types": {
     "w": { "id": "compactmachines3:wallbreakable" },
